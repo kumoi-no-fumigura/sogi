@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sogi",
  "yomi": "そうぎほうししゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "室町後期",
+  "author": "宗祇",
+  "desc": "連歌師宗祇の和歌を集めた家集。草庵での会、月次会などでの題詠を四季・恋・雑・神祇の順に収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -3541,6 +3546,6 @@
   "poems": 311,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
